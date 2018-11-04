@@ -2,3 +2,6 @@
 1. Пунк открыть файл index.html
 2. Дороботка...
 2. Пункт 3.
+3. This clone 
+4. We change reade.txt
+5. We add 3 paragraph.
